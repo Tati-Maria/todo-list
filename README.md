@@ -40,7 +40,7 @@ The style and semantic weren't my main focus.
 The confirm() method displays a dialog box with a message, an OK button, and a Cancel button. Returns true or false; <i>web3schools</i>
 <p>The localStorage read-only property of the window interface allows you to access a Storage object for the Document's origin; the stored data is saved across browser sessions.</p> <i>developer.mozilla</i>
 
-See the project live => (working on it :D)
+See the project live => <a href="https://tati-maria.github.io/todo-list/">To-do List</a>
 
 
 
