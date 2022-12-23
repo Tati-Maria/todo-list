@@ -1,4 +1,4 @@
-### I CHALLENGED MYSELF TO BUILD 6 SIMPLE APPS IN A MONTH TO PRACTICE MY JAVASCRIPT/TYPESCRIPT SKILLS
+## Personal Challenges to practice typescript/javascript
 
 Challenge: Create a simple to-do list web application using HTML, CSS, and JavaScript.
 
@@ -17,7 +17,7 @@ The list should be displayed in the order that the items were added, with the mo
 When the user marks an item as completed, the text of the item should be struck-through to indicate that it has been completed.
 The remove button should be disabled if there are no completed items in the list.
 
-### wHAT I DID
+# WHAT I DID
 
 I used Tyepcript, HTML and CSS
 
@@ -29,11 +29,11 @@ tsc --watch => to watch all the changes automatically
 
 The style and semantic weren't my main focus.
 
-# The user is able to add a new to-do item with an empty input
-# The list is displayed in order that the items were added
-# By double clicking on the to-do title, the to-do is placed as completed
-# Added edit and delete button.
-# Used localStorage to save the to-do items (key, value);
+The user is able to add a new to-do item with an empty input
+The list is displayed in order that the items were added
+By double clicking on the to-do title, the to-do is placed as completed
+Added edit and delete button.
+Used localStorage to save the to-do items (key, value);
 
 
 
