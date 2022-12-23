@@ -24,8 +24,8 @@ I used Tyepcript, HTML and CSS
 tsc --init => to get access to the typescript configuration file
 tsc --watch => to watch all the changes automatically 
 
-./dist => for the output of the javascript code
-./src => all my source folders
+<p>./dist => for the output of the javascript code</p>
+<p>./src => all my source folders</p>
 
 The style and semantic weren't my main focus.
 
@@ -34,6 +34,8 @@ The list is displayed in order that the items were added
 By double clicking on the to-do title, the to-do is placed as completed
 Added edit and delete button.
 Used localStorage to save the to-do items (key, value);
+
+See the project live => (working on it :D)
 
 
 
