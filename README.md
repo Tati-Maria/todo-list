@@ -21,19 +21,24 @@ The remove button should be disabled if there are no completed items in the list
 
 I used Tyepcript, HTML and CSS
 
-tsc --init => to get access to the typescript configuration file
-tsc --watch => to watch all the changes automatically 
+<p>tsc --init => to get access to the typescript configuration file</p>
+<p>tsc --watch => to watch all the changes automatically</p>
 
 <p>./dist => for the output of the javascript code</p>
 <p>./src => all my source folders</p>
 
 The style and semantic weren't my main focus.
+<ul>
+  <li>The user is able to add a new to-do item with an empty input</li>
+  <li>The list is displayed in order that the items were added</li>
+  <li>By double clicking on the to-do title, the to-do is placed as completed</li>
+  <li>Added edit and delete button.</li>
+  <li>Used localStorage to save the to-do items (key, value);</li>
+</ul>
 
-The user is able to add a new to-do item with an empty input
-The list is displayed in order that the items were added
-By double clicking on the to-do title, the to-do is placed as completed
-Added edit and delete button.
-Used localStorage to save the to-do items (key, value);
+# WHAT I LEARNED
+The confirm() method displays a dialog box with a message, an OK button, and a Cancel button. Returns true or false; <i>web3schools</i>
+<p>The localStorage read-only property of the window interface allows you to access a Storage object for the Document's origin; the stored data is saved across browser sessions.</p> <i>developer.mozilla</i>
 
 See the project live => (working on it :D)
 
