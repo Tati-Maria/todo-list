@@ -13,6 +13,7 @@ body{
     width: 100vw;
     display: grid;
     place-items: center;
+    grid-template-columns: 1fr;
     color: #fff;
 }
 
@@ -116,7 +117,7 @@ span.completed{
 
 .to-do-time{
     color: #999;
-    font-size: 1.8rem;
+    font-size: 1rem;
 }
 
 li .edit_button{
@@ -136,4 +137,14 @@ li .delete_button{
     display: flex;
     align-items: center;
     gap: 0.5rem;
+}
+
+.credits{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.credits a{
+    color: #fff;
+    letter-spacing: 2px;
 }
